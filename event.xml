@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Event>
+    <typeURI>a valid cadf:Path</typeURI>
+	<id>20b32d30aea13bc959b13892e427f42685e87645</id>
+	<eventType>birthday</eventType>
+	<eventTime>a valid cadf:Timestamp</eventTime>
+	<initiator>a valid cadf:Resource</initiator>
+    <action>a valid cadf:Path</action>
+    <target>a valid cadf:Resource</target>
+    <outcome>a valid cadf:Path</outcome>
+    <reporterchain>a valid cadf:ReporterStep
+        <reporterstep>1</reporterstep>
+        <reporterstep>2</reporterstep>
+    </reporterchain>
+    <reason>a valid cadf:Reason</reason>
+    <measurements>
+        <measurement>first measurment</measurement>
+        <measurement>second measurment</measurement>
+    </measurements>
+    <attachments>
+        <attachment>1</attachment>
+        <attachment>2</attachment>
+    </attachments>
+</Event>

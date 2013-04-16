@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Geolocation>
+	<city>Sunnyvale</city>
+	<state>CA</state>
+	<regionICANN>us</regionICANN>
+	<annotation key="building">B2</annotation>
+	<annotation key="room">201</annotation>
+</Geolocation>
